@@ -68,7 +68,7 @@
 }
 
 .todos__single--text:focus{
-    outline:non;
+    outline:none;
 }
 
 .icon {
