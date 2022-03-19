@@ -9,4 +9,4 @@ Task Manager allows users to manage daily active and completed tasks
 
 ## Demo
 
-![comic-app-gif](https://github.com/jason-gill00/TaskManager/ReactVideoTaskManager.gif)
+![comic-app-gif](https://github.com/jason-gill00/TaskManager/blob/master/ReactVideoTaskManager.gif)
