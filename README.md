@@ -5,6 +5,7 @@ Task Manager allows users to manage daily active and completed tasks
 ## Technologies
 
 - [x] React.js ~ Frontend (Typescript)
+- [x] SQLite - Database 
 
 
 ## Demo
